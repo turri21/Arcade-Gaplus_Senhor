@@ -1,3 +1,7 @@
+-=(Gaplus_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: Gaplus  port to MiSTer by MiSTer-X
